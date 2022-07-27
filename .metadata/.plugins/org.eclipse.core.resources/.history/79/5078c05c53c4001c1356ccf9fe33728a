@@ -1,0 +1,15 @@
+package com.demo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class StringTest {
+public static void main(String[] args) {
+	List list=new ArrayList<>();
+	list.add("suresh");
+	list.add("hari");
+	list.add("siva");
+	
+	System.out.println(list);
+}
+}
